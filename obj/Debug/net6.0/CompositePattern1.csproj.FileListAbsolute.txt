@@ -1,0 +1,15 @@
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\bin\Debug\net6.0\CompositePattern1.exe
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\bin\Debug\net6.0\CompositePattern1.deps.json
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\bin\Debug\net6.0\CompositePattern1.runtimeconfig.json
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\bin\Debug\net6.0\CompositePattern1.dll
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\bin\Debug\net6.0\CompositePattern1.pdb
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\obj\Debug\net6.0\CompositePattern1.csproj.AssemblyReference.cache
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\obj\Debug\net6.0\CompositePattern1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\obj\Debug\net6.0\CompositePattern1.AssemblyInfoInputs.cache
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\obj\Debug\net6.0\CompositePattern1.AssemblyInfo.cs
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\obj\Debug\net6.0\CompositePattern1.csproj.CoreCompileInputs.cache
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\obj\Debug\net6.0\CompositePattern1.dll
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\obj\Debug\net6.0\refint\CompositePattern1.dll
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\obj\Debug\net6.0\CompositePattern1.pdb
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\obj\Debug\net6.0\CompositePattern1.genruntimeconfig.cache
+C:\Users\402232\source\repos\CompositePattern1\CompositePattern1\obj\Debug\net6.0\ref\CompositePattern1.dll
