@@ -5,4 +5,4 @@ One of the projects updated for each patter is also extracted form rar and uploa
 <br>
 
 # Composite Pattern 
-The Composite Pattern is a design pattern that helps you build tree-like structures by grouping objects into a whole hierarchy.<br> This lets you treat individual objects and groups of objects in the same way.<br> It's like putting different building blocks together to form a bigger structure, and then treating that structure as if it were a single block.
+The Composite Pattern is a design pattern that helps you build tree-like structures by grouping objects into a whole hierarchy. This lets you treat individual objects and groups of objects in the same way.It's like putting different building blocks together to form a bigger structure, and then treating that structure as if it were a single block.
