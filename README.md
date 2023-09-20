@@ -9,8 +9,8 @@ I have wanted to show only the basic understandment, so in most cases the progra
 # List of all the patterns:<br><br>
 🧩 Composite Pattern <br><br>
 🔄 State Pattern<br><br>
-🔒 Singleton Pattern<br><br>
+🔒 Singleton Pattern<br>
 &emsp;&emsp;🔗 Monostate Pattern<br>
 &emsp;&emsp;🔄 Pre-Thread Singleton Pattern<br>
-&emsp;&emsp;🌐 Ambient Context <br>
+&emsp;&emsp;🌐 Ambient Context <br><br>
 🔃 Producer-Consumer Pattern<br><br>
