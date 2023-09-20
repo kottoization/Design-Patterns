@@ -6,7 +6,7 @@ I have wanted to show only the basic understandment, so in most cases the progra
 
 <br><br>
 
-# List of all the patterns:<br><br>
+## List of all the patterns:<br><br>
 🧩 Composite Pattern <br><br>
 🔄 State Pattern<br><br>
 🔒 Singleton Pattern<br>
