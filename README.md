@@ -11,6 +11,6 @@ I have wanted to show only the basic understandment, so in most cases the progra
 🔄 State Pattern<br>
 🔒 Singleton Pattern<br>
 &emsp;&emsp;🔗 Monostate Pattern<br>
-&emsp;&emsp;💡 Pre-Thread Singleton Pattern<br>
+&emsp;&emsp;💡 Per Thread Singleton Pattern<br>
 &emsp;&emsp;🌐 Ambient Context <br>
 🔃 Producer-Consumer Pattern<br>
