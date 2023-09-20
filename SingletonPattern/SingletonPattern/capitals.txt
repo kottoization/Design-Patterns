@@ -1,0 +1,20 @@
+Tokio
+13515000
+Delhi
+30290396
+Pekin
+21164000
+Brasília
+3105883
+Kair
+9120350
+Londyn
+9126366
+Nairobi
+4397073
+Moskwa
+12615279
+Buenos Aires
+3076116
+Sydney
+4963355
