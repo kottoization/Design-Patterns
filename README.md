@@ -6,11 +6,8 @@ I have wanted to show only the basic understandment, so in most cases the progra
 
 <br>
 
-# List of all the patterns:<br>
-🧩 Composite Pattern <br>
-🔄 State Pattern<br>
-🔒 Singleton Pattern<br>
-&emsp;&emsp;🔗Monostate Pattern<br>
-&emsp;&emsp;💡Per Thread Singleton Pattern<br>
-&emsp;&emsp;🌐Ambient Context <br>
-🔃 Producer-Consumer Pattern<br>
+# Pre-Thread Singleton
+
+The Pre-Thread Singleton Pattern is a design pattern that extends the Singleton Pattern to support multiple instances on a per-thread basis. In this pattern, each thread has its own unique instance, ensuring thread-specific data and operations.<br>
+It's similar to providing individual workstations in a shared office space, allowing each worker to have their own resources while still benefiting from a communal environment. <br>
+The Pre-Thread Singleton Pattern optimizes parallel processing by granting threads exclusive access to their respective instances, enhancing performance in multi-threaded applications.<br>
