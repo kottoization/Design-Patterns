@@ -10,7 +10,7 @@ I have wanted to show only the basic understandment, so in most cases the progra
 🧩 Composite Pattern <br><br>
 🔄 State Pattern<br><br>
 🔒 Singleton Pattern<br><br>
-&emsp;&emsp;🔗 Monostate Pattern<br><br>
-&emsp;&emsp;🔄 Pre-Thread Singleton Pattern<br><br>
-&emsp;&emsp;🌐 Ambient Context <br><br>
+&emsp;&emsp;🔗 Monostate Pattern<br>
+&emsp;&emsp;🔄 Pre-Thread Singleton Pattern<br>
+&emsp;&emsp;🌐 Ambient Context <br>
 🔃 Producer-Consumer Pattern<br><br>
