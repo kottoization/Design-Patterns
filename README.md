@@ -7,10 +7,10 @@ I have wanted to show only the basic understandment, so in most cases the progra
 <br><br>
 
 # List of all the patterns:<br><br>
-🧩 Composite Pattern <br>
-🔄 State Pattern<br>
-🔒 Singleton Pattern<br>
-&emsp;&emsp;🔗 Monostate Pattern<br>
-&emsp;&emsp;🔄 Pre-Thread Singleton Pattern<br>
-&emsp;&emsp;🌐 Ambient Context Pattern<br>
-🔃 Producer-Consumer Pattern<br>
+🧩 Composite Pattern <br><br>
+🔄 State Pattern<br><br>
+🔒 Singleton Pattern<br><br>
+&emsp;&emsp;🔗 Monostate Pattern<br><br>
+&emsp;&emsp;🔄 Pre-Thread Singleton Pattern<br><br>
+&emsp;&emsp;🌐 Ambient Context Pattern<br><br>
+🔃 Producer-Consumer Pattern<br><br>
