@@ -8,9 +8,9 @@ I have wanted to show only the basic understandment, so in most cases the progra
 
 # Ambient Context Pattern
 
-The Ambient Context Pattern allows different parts of a program to access important information without needing to pass it around all the time.<br>
+The Ambient Context Pattern allows different parts of a program to access important information without needing to pass it around all the time.
 It's like having a shared notebook that everyone in a team can refer to. This way, they can work together smoothly without constantly checking with each other. <br>
-This pattern is handy when different parts of a program need to know the same things, but they don't want to keep asking for them all the time.<br>
+This pattern is handy when different parts of a program need to know the same things, but they don't want to keep asking for them all the time.
 It's like having a common place where everyone can find what they need. The Ambient Context Pattern is useful when a program has a lot of pieces that need to share information in an organized way.<br>
 While the Ambient Context Pattern and other Singleton patterns ensure single instances, they differ in their purpose. <br>
 The Ambient Context Pattern focuses on providing a shared context for components, allowing them to access relevant information without direct dependencies.<br>
