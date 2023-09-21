@@ -5,19 +5,25 @@ I have wanted to show only the basic understandment, so in most cases the progra
 🎓 All the files are either based on a course (udemy.com/course/design-patterns-csharp-dotnet) or are coming from my academic work. 
 <br>
 
-# List of all the Design Patterns:
+Certainly! Here are the adjusted links:
 
-## 🏭 Factory Pattern
-- 👣 Simple Factory Pattern
-- 🎨 Abstract Factory Pattern
+```markdown
+# List of Design Patterns:
 
-## 🧩 Composite Pattern
+## [🏭 Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Factory-Pattern)
+- [👣 Simple Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Simple-Factory-Pattern)
+- [🎨 Abstract Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Abstract-Factory-Pattern)
 
-## 🔄 State Pattern
+## [🧩 Composite Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Composite-Pattern)
 
-## 🔃 Producer-Consumer Pattern
+## [🔄 State Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/State-Pattern)
 
-## 🔒 Singleton Pattern
-- 🔗 Monostate Pattern
-- 💡 Per Thread Singleton Pattern
-- 🌐 Ambient Context
+## [🔃 Producer-Consumer Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Producer-Consumer-Pattern)
+
+## [🔒 Singleton Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Singleton-Pattern)
+- [🔗 Monostate Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Monostate-Pattern)
+- [💡 Per Thread Singleton Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Per-Thread-Singleton-Pattern)
+- [🌐 Ambient Context](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Ambient-Context-Pattern)
+```
+
+Now, each pattern is linked to the respective branches in your repository.
