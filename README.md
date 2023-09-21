@@ -7,13 +7,13 @@ I have wanted to show only the basic understandment, so in most cases the progra
 
 # List of Design Patterns:
 
-## 🏭 Factory Pattern
-- [👣 Simple Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Simple-Factory-Pattern)
-- [🎨 Abstract Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Abstract-Factory-Pattern)
+#🌀 [Asynchronous Initialization Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Asynchronous-Initialization-Pattern)
 
 ## [🧩 Composite Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Composite-Pattern)
 
-## [🔄 State Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/State-Pattern)
+## 🏭 Factory Pattern
+- [👣 Simple Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Simple-Factory-Pattern)
+- [🎨 Abstract Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Abstract-Factory-Pattern)
 
 ## [🔃 Producer-Consumer Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Producer-Consumer-Pattern)
 
@@ -22,3 +22,4 @@ I have wanted to show only the basic understandment, so in most cases the progra
 - [💡 Per Thread Singleton Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Per-Thread-Singleton-Pattern)
 - [🌐 Ambient Context](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Ambient-Context-Pattern)
 
+## [🔄 State Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/State-Pattern)
