@@ -13,5 +13,6 @@ I have wanted to show only the basic understandment, so in most cases the progra
 - 🔗 Monostate Pattern
 - 💡 Per Thread Singleton Pattern
 - 🌐 Ambient Context
+<br>
 🔃 Producer-Consumer Pattern<br>
 🏭 Factory Pattern<br>
