@@ -7,7 +7,7 @@ I have wanted to show only the basic understandment, so in most cases the progra
 
 # List of Design Patterns:
 
-## [🏭 Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Factory-Pattern)
+## 🏭 Factory Pattern
 - [👣 Simple Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Simple-Factory-Pattern)
 - [🎨 Abstract Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Abstract-Factory-Pattern)
 
