@@ -16,3 +16,5 @@ I have wanted to show only the basic understandment, so in most cases the progra
 
 🔃 Producer-Consumer Pattern<br>
 🏭 Factory Pattern<br>
+- 👣Simple Factory Pattern
+- 🎨Abstract Factory Pattern
