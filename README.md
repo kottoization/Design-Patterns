@@ -5,20 +5,8 @@ I have wanted to show only the basic understandment, so in most cases the progra
 🎓 All the files are either based on a course (udemy.com/course/design-patterns-csharp-dotnet) or are coming from my academic work. 
 <br>
 
-# List of Design Patterns:
+# Asynchronous Initialization Pattern
 
-## 🏭 Factory Pattern
-- [👣 Simple Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Simple-Factory-Pattern)
-- [🎨 Abstract Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Abstract-Factory-Pattern)
+The Asynchronous Initialization Pattern allows resources or components to be initialized in a non-blocking manner, avoiding delays in the main execution flow. This pattern is similar to setting up a background task to prepare necessary resources while the program continues with other tasks.
 
-## [🧩 Composite Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Composite-Pattern)
-
-## [🔄 State Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/State-Pattern)
-
-## [🔃 Producer-Consumer Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Producer-Consumer-Pattern)
-
-## [🔒 Singleton Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Singleton-Pattern)
-- [🔗 Monostate Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Monostate-Pattern)
-- [💡 Per Thread Singleton Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Per-Thread-Singleton-Pattern)
-- [🌐 Ambient Context](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Ambient-Context-Pattern)
-
+This pattern is often used in conjunction with Dependency Injection, allowing for the asynchronous creation and injection of dependencies. By doing so, the application can remain responsive and efficient, even during resource-intensive setup processes. This enhances user experience and ensures that the program remains interactive throughout the initialization phase.
