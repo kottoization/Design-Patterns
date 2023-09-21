@@ -7,7 +7,7 @@ I have wanted to show only the basic understandment, so in most cases the progra
 
 # List of Design Patterns:
 
-## [🌀Asynchronous Initialization Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Asynchronous-Initialization-Pattern)
+## [🌀 Asynchronous Initialization Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Asynchronous-Initialization-Pattern)
 
 ## [🧩 Composite Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Composite-Pattern)
 
