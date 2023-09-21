@@ -9,9 +9,9 @@ I have wanted to show only the basic understandment, so in most cases the progra
 # List of all the patterns:<br>
 🧩 Composite Pattern <br>
 🔄 State Pattern<br>
-🔒 Singleton Pattern<br>
- Markup :*&emsp;&emsp;🔗Monostate Pattern<br>
-*&emsp;&emsp;💡Per Thread Singleton Pattern<br>
-*&emsp;&emsp;🌐Ambient Context <br>
+🔒 Singleton Pattern
+- 🔗 Monostate Pattern
+- 💡 Per Thread Singleton Pattern
+- 🌐 Ambient Context
 🔃 Producer-Consumer Pattern<br>
 🏭 Factory Pattern<br>
