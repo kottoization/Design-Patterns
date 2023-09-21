@@ -9,5 +9,5 @@ I have wanted to show only the basic understandment, so in most cases the progra
 # Abstract Factory Pattern
 
 The Abstract Factory Pattern is a design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes.<br>
-It's like a blueprint for creating groups of objects with common characteristics. This pattern allows for the creation of different sets of objects that work together seamlessly,<br>
+It's like a blueprint for creating groups of objects with common characteristics. This pattern allows for the creation of different sets of objects that work together seamlessly,
 ensuring compatibility and cohesion. It's particularly useful in scenarios where multiple families of objects need to be created, and the system needs to be flexible enough to accommodate changes in these families.
