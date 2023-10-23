@@ -1,13 +1,7 @@
 # Design-Patterns
 Different design patterns in different branches, inplemented in C# <br><br>
 Most of the files are in .rar or .zip and they are ment to show basic understandment of those patterns. <br> 
-I have wanted to show only the basic understandment, so in most cases the program's operation is limited only to this area. <br><br>
-🎓 All the files are either based on a course (udemy.com/course/design-patterns-csharp-dotnet) or are coming from my academic work. 
+I have wanted to show only the basic understandment, so in most cases the program's operation is limited only to this area. <br>
 
-<br>
-
-# Abstract Factory Pattern
-
-The Abstract Factory Pattern is a design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes.<br>
-It's like a blueprint for creating groups of objects with common characteristics. This pattern allows for the creation of different sets of objects that work together seamlessly,
-ensuring compatibility and cohesion. It's particularly useful in scenarios where multiple families of objects need to be created, and the system needs to be flexible enough to accommodate changes in these families.
+# Command Pattern
+The Command Pattern is a design pattern that focuses on encapsulating a request as an object, thereby allowing clients to parameterize, queue, and execute various requests without knowing the specifics of the operation or the receiver of the request. This pattern separates the sender (client) from the receiver (the object that will perform the action), making it a powerful mechanism for decoupling components in a system. Essentially, the Command Pattern turns a request into a stand-alone object that carries all the necessary information for the action to be performed, including the method to call, the arguments, and any context.
