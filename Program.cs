@@ -1,81 +1,39 @@
-﻿using System.Drawing;
-using System.Reflection.PortableExecutable;
-
-namespace AbstractFactory
+﻿namespace CommandPattern
 {
-    // this does not follow OCP from SOLID methods, needs some adjustments to do so
-    public interface IHotDrink
-    {
-        void Consume();
-    }
-
-    internal class Tea : IHotDrink
-    {
-        public void Consume()
-        {
-            Console.WriteLine("Drinking tea ... ");
-        }
-    }
-    internal class Coffe : IHotDrink
-    {
-        public void Consume()
-        {
-            Console.WriteLine("Drinking coffe ... ");
-        }
-    }
-
-    public interface IHotDrinkFactory
-    {
-        IHotDrink Prepare(int amount);
-    }
-
-    internal class TeaFactory : IHotDrinkFactory
-    {
-        public IHotDrink Prepare(int amount)
-        {
-            Console.WriteLine($"{amount} ml :Prepare the tea following the instruction ... ");
-            return new Tea();
-        }
-    }
-
-    internal class CoffeFactory : IHotDrinkFactory
-    {
-        public IHotDrink Prepare(int amount)
-        {
-            Console.WriteLine($"{amount} ml : Prepare the coffe following the instruction ... ");
-            return new Coffe();
-        }
-    }
-
-    public class HotDrinkMachine
-    {
-        public enum AvailableDrinks { Coffe, Tea}
-
-        private Dictionary<AvailableDrinks, IHotDrinkFactory> factories = new Dictionary<AvailableDrinks, IHotDrinkFactory>();
-
-        public HotDrinkMachine()
-        {
-            foreach(AvailableDrinks drink in Enum.GetValues(typeof(AvailableDrinks)))
-            {
-                var factory = (IHotDrinkFactory)Activator.CreateInstance(
-                    Type.GetType("AbstractFactory."+Enum.GetName(typeof(AvailableDrinks), drink)+"Factory")
-                    );
-                factories.Add(drink, factory);
-            }        
-        }
-
-        public IHotDrink MakeDrink(AvailableDrinks drink, int amout)
-        {
-            return factories[drink].Prepare(amout);
-        }
-    }
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            HotDrinkMachine machine = new HotDrinkMachine();
-            var drink1 = machine.MakeDrink(HotDrinkMachine.AvailableDrinks.Tea, 250);
-            var drink2 = machine.MakeDrink(HotDrinkMachine.AvailableDrinks.Coffe, 330);
-        }        
+            Comment comment1 = new Comment("To jest przykładowy komentarz z pomidorem.");
+            Comment comment2 = new Comment("Dziś zjadam pomidory i ogórki.");
+            Comment comment3 = new Comment("Przykladowy komentarz bez zabronionego slowa.");
+            Comment comment4 = new Comment("pomidorbezspacji");
+
+            Console.WriteLine("Komentarz 1 przed moderacja: " + comment1.GetContent());
+            Console.WriteLine("Komentarz 2 przed moderacja: " + comment2.GetContent());
+            Console.WriteLine("Komentarz 3 przed moderacja: " + comment3.GetContent());
+            Console.WriteLine("Komentarz 4 przed moderacja: " + comment4.GetContent());
+
+            Forum forum1 = new Forum();
+
+            ICommand command1 = new RemoveWordCommand(comment1, "pomidor", forum1);
+            ICommand command2 = new RemoveWordCommand(comment2, "pomidor", forum1);
+            ICommand command3 = new RemoveWordCommand(comment3, "pomidor", forum1);
+            ICommand command4 = new RemoveWordCommand(comment4, "pomidor", forum1);
+
+            Moderator moderator = new Moderator();
+
+            moderator.AddCommand(command1);
+            moderator.AddCommand(command2);
+            moderator.AddCommand(command3);
+            moderator.AddCommand(command4);
+
+            moderator.ProcessCommands();
+
+            Console.WriteLine("=============================");
+            forum1.printAcceptedComments();
+
+            Console.ReadKey();
+        }
     }
 }
