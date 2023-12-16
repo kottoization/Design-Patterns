@@ -17,6 +17,8 @@ I have wanted to show only the basic understandment, so in most cases the progra
 - [👣 Simple Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Simple-Factory-Pattern)
 - [🎨 Abstract Factory Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Abstract-Factory-Pattern)
 
+## [🔃 Observer Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Observer-Pattern)
+
 ## [🔃 Producer-Consumer Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Producer-Consumer-Pattern)
 
 ## [🔒 Singleton Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Singleton-Pattern)
