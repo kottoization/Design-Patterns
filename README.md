@@ -20,7 +20,6 @@ I have wanted to show the basic understandment only, so in most cases the progra
 ## [🔭 Observer Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Observer-Pattern)
 
 ## [🔃 Producer-Consumer Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Producer-Consumer-Pattern)
-
 ## [🔒 Singleton Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Singleton-Pattern)
 - [🔗 Monostate Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Monostate-Pattern)
 - [💡 Per Thread Singleton Pattern](https://github.com/kottoization/Design-Patterns-in-C-Sharp/tree/Per-Thread-Singleton-Pattern)
